@@ -1,0 +1,100 @@
+1) The Godfather
+2) The Empire Strikes Back
+3) The Dark Knight
+4) The Shawshank Redemption
+5) Pulp Fiction
+6) Goodfellas
+7) Raiders Of The Lost Ark
+8) Jaws
+9) Star Wars
+10) The Lord Of The Rings: The Fellowship Of The Ring
+11) Back To The Future
+12) The Godfather Part II
+13) Blade Runner
+14) Alien
+15) Aliens
+16) Spirited Away
+17) The Lord Of The Rings: The Return Of The King
+18) Fight Club
+19) Inception
+20) Jurassic Park
+21) Die Hard
+22) 2001: A Space Odyssey
+23) Apocalypse Now
+24) The Lord Of The Rings: The Two Towers
+25) The Matrix
+26) Terminator 2: Judgment Day
+27) Heat
+28) The Good, The Bad And The Ugly
+29) Casablanca
+30) The Big Lebowski
+31) Seven
+32) Taxi Driver
+33) The Usual Suspects
+34) Schindler's List
+35) Guardians Of The Galaxy
+36) The Shining
+37) The Departed
+38) The Thing
+39) Mad Max: Fury Road
+40) Saving Private Ryan
+41) 12 Angry Men
+42) Eternal Sunshine Of The Spotless Mind
+43) There Will Be Blood
+44) One Flew Over The Cuckoo's Nest
+45) Gladiator
+46) Drive
+47) Citizen Kane
+48) Interstellar
+49) The Silence Of The Lambs
+50) Trainspotting
+51) Lawrence Of Arabia
+52) It's A Wonderful Life
+53) Once Upon A Time In The West
+54) Psycho
+55) Vertigo
+56) Pan's Labyrinth
+57) Reservoir Dogs
+58) Whiplash
+59) Inglourious Basterds
+60) E.T. â The Extra Terrestrial
+61) American Beauty
+62) Forrest Gump
+63) La La Land
+64) Donnie Darko
+65) L.A. Confidential
+66) Avengers Assemble
+67) Return Of The Jedi
+68) Memento
+69) Ghostbusters
+70) Singin' In The Rain
+71) The Lion King
+72) Hot Fuzz
+73) Rear Window
+74) Seven Samurai
+75) Mulholland Dr.
+76) Fargo
+77) A Clockwork Orange
+78) Toy Story
+79) Oldboy
+80) Captain America: Civil War
+81) The Social Network
+82) Some Like It Hot
+83) True Romance
+84) Rocky
+85) LÃ©on
+86) Indiana Jones And The Last Crusade
+87) Predator
+88) The Exorcist
+89) Shaun Of The Dead
+90) No Country For Old Men
+91) The Prestige
+92) The Terminator
+93) The Princess Bride
+94) Lost In Translation
+95) Arrival
+96) Good Will Hunting
+97) Titanic
+98) Amelie
+99) Raging Bull
+100) Stand By Me
