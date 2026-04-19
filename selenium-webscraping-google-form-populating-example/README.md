@@ -104,9 +104,3 @@ Done.
 - The script targets input fields by `input[type="text"]` and the submit button by `aria-label="Submit"`. If the Google Form layout changes, these selectors may need to be updated.
 - A 1-second pause between submissions helps avoid rate limiting.
 - All three values (address, price, link) must be present in the form for `zip` to populate correctly. If your form has a different field count, adjust accordingly.
-
----
-
-## License
-
-MIT
