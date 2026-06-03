@@ -2,14 +2,6 @@ from flask import Flask
 
 app = Flask(__name__)
 
-
-def logging_decorator(function):
-    def wrapper(*args):
-        print(f"You are about to call {function.__name__}")
-        result = function(*args)
-        print(f"The result was {result}")
-    return wrapper
-
 def make_bold(function):
     def wrapper():
         return "<b>" + function() + "</b>"
@@ -36,11 +28,6 @@ def hello_world():
 @make_emphasis
 def bye():
     return 'Bye!'
-
-@app.route("/a_function/<int:a>/<int:b>")
-@logging_decorator
-def a_function(*args):
-    return sum(args)
 
 @app.route("/username/<name>/<int:number>")
 def greet(name, number):
